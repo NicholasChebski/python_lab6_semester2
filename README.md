@@ -5,6 +5,8 @@
 **Среда выполнения:** Google Colab  
 **Ссылка на блокнот:** [открыть Google Colab](https://colab.research.google.com/drive/1Oq5VTNT3dMBvHd6cUPSIJTLtxduq8UKy?usp=sharing)
 
+**Работа была проделана самостоятельно, однако для составления отчёта использовалась нейросеть ChatGPT**
+
 ---
 
 ## Введение
